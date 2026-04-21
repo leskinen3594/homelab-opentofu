@@ -1,6 +1,6 @@
 /.terraform
 *.hcl
 *.plan
-*.tfstate
+*.tfstate*
 
 */.terraform
